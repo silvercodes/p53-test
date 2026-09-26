@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello from master";
+    std::cout << "Hello from Vasia";
     return 0;
 }
