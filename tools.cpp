@@ -18,8 +18,3 @@ int sub(int a, int b)
 {
     return a - b;
 }
-
-void print() 
-{
-    std::cout << "Hello User\n";
-}
