@@ -8,5 +8,7 @@ int main()
     int b{12};
     int c{ a + b };
 
+    std::cout << "test\n";
+
     return 0;
 }
